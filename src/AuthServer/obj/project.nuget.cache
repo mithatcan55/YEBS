@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tO3jLCD2aIs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mithat.can\\Desktop\\Project\\YEBS\\src\\AuthServer\\YEBS.AuthServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mithat.can\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\mithat.can\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@YEBS.App_HostAddress = http://localhost:5234
+
+GET {{YEBS.App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
